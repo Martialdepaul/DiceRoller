@@ -1,16 +1,53 @@
-# first_app
+# 🎲 Dice Roller
 
-A new Flutter project.
+Un projet Flutter simple où un dé tourne lorsqu'on clique sur un bouton, affichant une valeur aléatoire entre 1 et 6.
 
-## Getting Started
+## 🚀 Fonctionnalités
+- Génération d'une valeur aléatoire de dé (1 à 6) à chaque clic.
+- Affichage d'une image représentant la face du dé.
+- Interface fluide et interactive avec Flutter.
 
-This project is a starting point for a Flutter application.
+## 📸 Aperçu
+Ajoutez ici une capture d'écran ou un GIF de votre application en action !
 
-A few resources to get you started if this is your first Flutter project:
+![Aperçu de l'application](./assets/images/dice-7.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Installation
+1. Clonez le projet :
+   ```sh
+   git clone https://github.com/Martialdepaul/DiceRoller.git
+   cd DiceRoller
+   ```
+2. Installez les dépendances :
+   ```sh
+   flutter pub get
+   ```
+3. Lancez l'application :
+   ```sh
+   flutter run
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📂 Structure du projet
+```
+DiceRoller/
+│── lib/
+│   ├── main.dart  # Code principal de l'application
+│   ├── dice_widget.dart  # Widget du dé
+│── assets/
+│   ├── images/
+│   │   ├── dice-1.png
+│   │   ├── dice-2.png
+│   │   ├── dice-3.png
+│   │   ├── dice-4.png
+│   │   ├── dice-5.png
+│   │   ├── dice-6.png
+│── pubspec.yaml  # Dépendances du projet
+```
+
+## 📜 Licence
+Ce projet est sous licence MIT. Vous êtes libre de le modifier et de le distribuer.
+
+---
+**Auteur :** Martial De-Paul 👨‍💻
+
+📌 [GitHub](https://github.com/Martialdepaul/DiceRoller) | ✉️ Contactez-moi pour toute question !
