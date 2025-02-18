@@ -41,6 +41,7 @@ DiceRoller/
 │   │   ├── dice-4.png
 │   │   ├── dice-5.png
 │   │   ├── dice-6.png
+│   │   ├── dice-7.png
 │── pubspec.yaml  # Dépendances du projet
 ```
 
